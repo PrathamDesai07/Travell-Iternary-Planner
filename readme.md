@@ -59,7 +59,10 @@ This project is a **Travel Itinerary Planner** powered by AI agents. It helps us
     Add your API keys and other configuration details.
 
 ## Usage
-1. Run the Streamlit app:
+1. Run Ollama:
+    ```bash
+    ollama serve
+1. Run the Streamlit app in separate terminal:
     ```bash
     streamlit run app.py
 
