@@ -85,6 +85,6 @@ Author
 Created by PrathamDesai07. Contributions are welcome!
 
 ## Acknowledgments.
-    LangChain Community
-    Streamlit
-    Google Serper API
+    ([LangChain Community](https://python.langchain.com/api_reference/community/))
+    ([Streamlit](https://streamlit.io/))
+    ([Google Serper API](https://serper.dev/))
