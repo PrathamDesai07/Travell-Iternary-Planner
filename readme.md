@@ -10,15 +10,15 @@ This project is a **Travel Itinerary Planner** powered by AI agents. It helps us
 - **Streamlit Interface**: User-friendly interface for inputting travel details and viewing results.
 - **Downloadable Plans**: Download your travel plan as a text file.
 
-## Project Structure
-├── .gitignore # Files and directories to ignore in version control 
-├── LICENSE # MIT License for the project 
-├── agents.py # Defines AI agents for travel planning
-├── app.py # Streamlit app for user interaction 
-├── main.py # Core logic for orchestrating agents and tasks 
-├── tasks.py # Defines tasks for the agents 
-├── tools.py # Tools used by the agents (e.g., web search) 
-├── utils.py # Utility functions (e.g., Streamlit callbacks)
+## Project Structure.
+    ├── .gitignore # Files and directories to ignore in version control
+    ├── LICENSE # MIT License for the project 
+    ├── agents.py # Defines AI agents for travel planning
+    ├── app.py # Streamlit app for user interaction 
+    ├── main.py # Core logic for orchestrating agents and tasks 
+    ├── tasks.py # Defines tasks for the agents 
+    ├── tools.py # Tools used by the agents (e.g., web search) 
+    ├── utils.py # Utility functions (e.g., Streamlit callbacks)
 
 
 ### File Descriptions
@@ -52,6 +52,7 @@ This project is a **Travel Itinerary Planner** powered by AI agents. It helps us
    git clone https://github.com/your-username/Travel-Itinerary-Planner.git
    cd Travel-Itinerary-Planner
 2. Install dependencies
+    ```bash
     pip install -r requirements.txt
 3. Set up environment variables:
     Create a .env file in the root directory.
@@ -59,6 +60,7 @@ This project is a **Travel Itinerary Planner** powered by AI agents. It helps us
 
 ## Usage
 1. Run the Streamlit app:
+    ```bash
     streamlit run app.py
 
 2. Open the app in your browser and follow these steps:
