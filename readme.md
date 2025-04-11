@@ -54,9 +54,9 @@ This project is a **Travel Itinerary Planner** powered by AI agents. It helps us
 2. Install dependencies
     ```bash
     pip install -r requirements.txt
-3. Set up environment variables:
-    Create a .env file in the root directory.
-    Add your API keys and other configuration details.
+3. Set your serper key in **[`.env`](.env)**:
+    ```bash
+    SERPER_API_KEY = "<your-api-key>"
 
 ## Usage
 1. Run Ollama:
@@ -65,9 +65,7 @@ This project is a **Travel Itinerary Planner** powered by AI agents. It helps us
 1. Run the Streamlit app in separate terminal:
     ```bash
     streamlit run app.py
-
 2. Open the app in your browser and follow these steps:
-
     Enter your destination city.
     Specify your travel dates and interests.
     Click "Plan My Trip" to generate your travel itinerary.
