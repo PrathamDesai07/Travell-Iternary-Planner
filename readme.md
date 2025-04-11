@@ -70,7 +70,7 @@ This project is a **Travel Itinerary Planner** powered by AI agents. It helps us
     Click "Plan My Trip" to generate your travel itinerary.
 3. Download your travel plan using the "Download Plan" button.
 
-Dependencies
+## Dependencies.
     Python 3.8+
     Streamlit
     LangChain
@@ -83,7 +83,7 @@ This project is licensed under the MIT License.
 Author
 Created by PrathamDesai07. Contributions are welcome!
 
-Acknowledgments
-LangChain Community
-Streamlit
-Google Serper API
+## Acknowledgments.
+    LangChain Community
+    Streamlit
+    Google Serper API
